@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VideoGameAdvisor</string>
+    <string name="find_game">LOOK FOR GAME!</string>
+    <string name="video_games">Video Games:</string>
+    <string name="games_description">Click on the button for finding more details of the Game here</string>
+    <string-array name="game_genres">
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Strategy</item>
+        <item>Sports</item>
+        <item>RPG</item>
+    </string-array>
+</resources>
